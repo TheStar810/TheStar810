@@ -6,12 +6,12 @@
 
 ## I'm a Student and Software Engineer!!!
 
-•	🇮🇩 
-•	👨🏻‍💻 20 
-•	🏢 Student in Kwik Kian Gie School of Business
-•	🥅 Currently Learning on Web Development
-• 🔗 Reach Me in williamsusilo2827@gmail.com
-•	🌱 My Goals: Contribute more to Open Source projects and become GDE!
+•	🇮🇩 <br>
+•	👨🏻‍💻 20 <br>
+•	🏢 Student in Kwik Kian Gie School of Business <br>
+•	🥅 Currently Learning on Web Development <br>
+• 🔗 Reach Me in williamsusilo2827@gmail.com <br>
+•	🌱 My Goals: Contribute more to Open Source projects and become GDE! <br>
 
 <!--[![wakatime](https://wakatime.com/badge/user/8ba534c7-3602-4395-a277-60e69c45eb75.svg)](https://wakatime.com/@8ba534c7-3602-4395-a277-60e69c45eb75)-->
 
