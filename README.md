@@ -11,7 +11,6 @@
 •	🏢 Student in Kwik Kian Gie School of Business <br>
 •	🥅 Currently Learning on Web Development <br>
 • 🔗 Reach Me: williamsusilo2827@gmail.com <br>
-•	🌱 My Goals: Contribute more to Open Source, Web, and Mobile Projects and Become GDE! <br>
 
 <!--[![wakatime](https://wakatime.com/badge/user/8ba534c7-3602-4395-a277-60e69c45eb75.svg)](https://wakatime.com/@8ba534c7-3602-4395-a277-60e69c45eb75)-->
 
